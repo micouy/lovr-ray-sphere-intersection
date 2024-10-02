@@ -1,7 +1,9 @@
 # Ray-sphere intersection detection in five lines of LÖVR
 
-![Screenshot 1](/screenshot-1.jpg)
-![Screenshot 2](/screenshot-2.jpg)
+<p float="left" align="middle">
+  <img align="top" src="/screenshot-1.jpg" width="400" />
+  <img align="top" src="/screenshot-2.jpg" width="400" /> 
+</p>
 
 The gist:
 
